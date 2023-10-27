@@ -59,7 +59,7 @@ function Footer() {
       <div className="mt-8 text-center sm:text-right sm:-mt-2.5">
         <a
           className="w-auto inline-flex items-center sm:w-auto font-bold flex-shrink text-xs border border-fun-pink px-4 py-2 rounded-xl text-fun-pink cursor-pointer opacity-50"
-          href="https://github.com/braydentw/braydentw.io"
+          href="https://github.com/VSLuis1/vsluis-portfolio"
           target="_blank"
           rel="nooreferrer"
         >
